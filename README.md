@@ -14,7 +14,9 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
-
+<p align="center">
+  <a href="https://explorer-lab-01-ebon-theta.vercel.app/" > ** Link Deploy ** </a>
+</p>
 <br>
 
 <p align="center">
@@ -32,7 +34,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [iMask](https://imask.js.org)
 
 ## 💻 Projeto
-
 O Rocketpay é um componente que simula o formulário de preenchimento de cartão de crédito, onde é possível adicionar máscara aos inputs e atualizar elementos HTML via DOM.
 
 ## 🔖 Layout
