@@ -10,17 +10,26 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
-
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
-</p>
+</p align="center">
+
 <p align="center">
-  <a href="https://explorer-lab-01-ebon-theta.vercel.app/" > ** Link Deploy ** </a>
+  <a href="https://explorer-lab-01-ebon-theta.vercel.app/" > <b> Link Deploy </b> </a>
 </p>
 <br>
 
 <p align="center">
   <img alt="rocketpay" src=".github/project.png" width="100%">
+</p>
+
+## 💳 Números para inserir no cartão
+
+<p> Para informar o modelo do cartão, deve inserir números que iniciam em: </br>
+  <li> Visa: 40 - 49 </li>
+  <li> American express: 34 </li>
+  <li> MasterCard: 51 - 55 </li>
+
 </p>
 
 ## 🚀 Tecnologias
