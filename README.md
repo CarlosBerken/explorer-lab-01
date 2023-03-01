@@ -25,12 +25,11 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 
 ## 💳 Números para inserir no cartão
 
-<p> Para informar o modelo do cartão, deve inserir números que iniciam em: </br>
-  <li> Visa: 40 - 49 </li>
-  <li> American express: 34 </li>
-  <li> MasterCard: 51 - 55 </li>
+Para informar o modelo do cartão, deve inserir números que iniciam em: </br> 
+- Visa: 40 - 49
+- American express: 34
+- MasterCard: 51 - 55
 
-</p>
 
 ## 🚀 Tecnologias
 
